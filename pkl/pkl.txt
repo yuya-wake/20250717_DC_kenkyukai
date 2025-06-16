@@ -1,0 +1,3 @@
+scripts/create_embeddding内のファイルの出力はpkl形式で保存している．
+pklファイルはGoogle Driveから入手できる：
+https://drive.google.com/drive/folders/1uJN1uG-Z6HFduPgDKIzFCj3gU8PcJ2oe?usp=drive_link
