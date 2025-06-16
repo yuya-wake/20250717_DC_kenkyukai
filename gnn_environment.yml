@@ -1,0 +1,14 @@
+name: gnn_venv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - pandas
+  - conda-forge::transformers
+  - ipywidgets
+  - jupyter
+  - matplotlib
+  - conda-forge::acstools
+  - conda-forge::timm
