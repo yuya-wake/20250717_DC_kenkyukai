@@ -61,4 +61,4 @@ pip install -r clip_requirements.txt
    - MLP model:
      `python scripts/classify/embed_concat_mlp.py`
    - MLP with related videos model:
-     `python scripts/classify/embed_concat_w_related.py'
+     `python scripts/classify/embed_concat_w_related.py`
