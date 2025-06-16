@@ -57,8 +57,8 @@ pip install -r clip_requirements.txt
 
 3. **Run classification**
    - GCN model:
-     'python scripts/classify/gcn_2.py`
+     `python scripts/classify/gcn_2.py`
    - MLP model:
-     'python scripts/classify/embed_concat_mlp.py`
+     `python scripts/classify/embed_concat_mlp.py`
    - MLP with related videos model:
-     'python scripts/classify/embed_concat_w_related.py'
+     `python scripts/classify/embed_concat_w_related.py'
